@@ -1,10 +1,36 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Giacomo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Ciao, sono Marco Rossi
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Sviluppatore Backend con 4 anni di esperienza nella creazione di API REST e microservizi. Lavoro principalmente con Python e Go per costruire sistemi di pagamento e gestire code di messaggi ad alto traffico. Attualmente lavoro a Milano presso [Nome Azienda] e nel tempo libero contribuisco a progetti open source per l'automazione su Linux.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Su cosa sto lavorando
+
+* **Servizio di fatturazione elettronica:** Sto riscrivendo un vecchio monolite PHP in Go, riducendo l'uso della memoria RAM sui server di produzione del 60%.
+* **fast-csv-parser:** Una libreria open source in Python per validare file CSV di grandi dimensioni (oltre 2 GB) senza saturare la memoria.
+* **Studio personale:** Sto approfondendo l'architettura interna di PostgreSQL e l'uso di Kubernetes per il deploy automatico.
+
+## Tecnologie che uso ogni giorno
+
+* **Linguaggi:** Python 3.11, Go 1.22, SQL, Bash
+* **Framework e Librerie:** FastAPI, Django, Gin, SQLAlchemy
+* **Database e Cache:** PostgreSQL, Redis, MongoDB
+* **Infrastruttura:** Docker, GitHub Actions, AWS (EC2, S3, RDS), Linux (Ubuntu/Debian)
+
+## Progetti principali
+
+Ecco tre repository del mio profilo da cui puoi vedere come scrivo il codice:
+
+1. **[fast-csv-parser](https://github.com/tuo-username/fast-csv-parser):** Validatore di file CSV scritto in Python. Gestisce 1 milione di righe in circa 4 secondi. Include test unitari completi.
+2. **[go-auth-microservice](https://github.com/tuo-username/go-auth-microservice):** Template pronto per la produzione per gestire l'autenticazione tramite JWT e OAuth2 in Go, con limitazione delle richieste (rate limiting) basata su Redis.
+3. **[dotfiles](https://github.com/tuo-username/dotfiles):** I miei file di configurazione per Neovim, Tmux e Zsh. Include uno script Bash per configurare un nuovo computer Ubuntu in 5 minuti.
+
+## Statistiche GitHub
+
+![Statistiche di Marco](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=default&hide_border=true)
+
+## Contatti
+
+Se vuoi parlare di sviluppo software, proporre una collaborazione o segnalare un bug nei miei progetti, puoi scrivermi qui:
+
+* **Email:** nome.cognome@email.it
+* **LinkedIn:** [linkedin.com/in/tuo-profilo](https://linkedin.com/in/tuo-profilo)
+* **Sito web e Blog:** [tuosito.dev](https://tuosito.dev)
